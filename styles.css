@@ -1,0 +1,25 @@
+body{
+    background-color: #262626;
+}
+h1{
+    color: aliceblue;
+    margin-left: 18cm;
+    font-family: Mulish;
+
+}
+table{
+    margin-left: 14cm;
+    
+}
+tr{
+    background-color: aliceblue;
+    font-family: Mulish;
+}
+
+.white {
+    background-color: aliceblue;
+}
+.black {
+    background-color: #262626;
+    color: white;
+}
