@@ -7,6 +7,35 @@ h1{
     font-family: Mulish;
 
 }
+h2{
+    color: aliceblue;
+    text-align: center;
+    font-family: Mulish;
+
+}
+h3{
+    color: aliceblue;
+    text-align: center;
+    font-family: Mulish;
+
+}
+h4{
+    color: aliceblue;
+    text-align: center;
+    font-family: Mulish;
+
+}
+h5{
+    color: aliceblue;
+    text-align: center;
+    font-family: Mulish;
+
+}
+h6{
+    color: aliceblue;
+    text-align: center;
+    font-family: Mulish;
+}
 table{
     margin-left: 14cm;
     
@@ -22,4 +51,10 @@ tr{
 .black {
     background-color: #262626;
     color: white;
+}
+
+a {
+    color:blueviolet;
+
+
 }
