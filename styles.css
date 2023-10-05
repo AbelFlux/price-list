@@ -35,11 +35,10 @@ h6{
     color: aliceblue;
     text-align: center;
     font-family: Mulish;
-
 }
 table{
     margin-left: 14cm;
-    font-weight: strong;
+    
 }
 tr{
     background-color: aliceblue;
@@ -48,10 +47,12 @@ tr{
 
 .white {
     background-color: aliceblue;
+    font-weight: bolder;
 }
 .black {
     background-color: #262626;
     color: white;
+    font-weight: bolder;
 }
 
 a {
