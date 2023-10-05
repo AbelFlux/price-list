@@ -35,10 +35,11 @@ h6{
     color: aliceblue;
     text-align: center;
     font-family: Mulish;
+
 }
 table{
     margin-left: 14cm;
-    
+    font-weight: strong;
 }
 tr{
     background-color: aliceblue;
